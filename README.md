@@ -14,5 +14,7 @@ Install torch, torchvision, torchaudio appropriately for your machine from the i
 using a GPU on a windows machine with CUDA enabled, recommend doing so to enable realistic training times. Code should be found in .ipynb file.
 
 # Testing and Running Code
-Last two cells of .ipynb file run the model on a training image, and allow for active sign language detection in another window. Run the 
-code to use!
+Last two cells of .ipynb file run the model on a training image, and allow for active sign language detection in another window. Run the last code block to run the translator.
+
+# Demo
+Check out "signdemo_compressed.mp4" to see a demo of the model in action!
